@@ -1,0 +1,8 @@
+{
+  "name": "Smart Electromechanical Brake System",
+  "description": "Interactive 3D CAD mechanical assembly, rotational dynamics physics simulation, real-time sensor telemetry, and ESP32 electrical architecture visualizer for a Smart Electromechanical Brake System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
